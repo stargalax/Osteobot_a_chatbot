@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+deep-translator
+SpeechRecognition
+gTTS
+pygame
+langflow
+streamlit-chat
