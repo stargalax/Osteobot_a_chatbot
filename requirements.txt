@@ -5,4 +5,7 @@ SpeechRecognition==3.10.4
 gTTS==2.5.3
 pygame==2.6.1
 langflow==1.0.19.post1
+fastapi==0.115.0
+fastavro==1.9.7
+fastjsonschema==2.20.0
 streamlit-chat==0.1.1
